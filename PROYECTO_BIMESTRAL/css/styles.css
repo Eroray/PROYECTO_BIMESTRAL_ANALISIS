@@ -1,0 +1,62 @@
+body{
+  margin : 0;
+  text-align: center;
+}
+
+h2{
+  font-family: 'Montserrat';
+  color: #E4007C;
+  font-weight: bold;
+}
+
+
+.skillslist{
+  list-style-type: circle;
+  text-align: center;
+}
+
+.top-container {
+  font-family: 'Montserrat';
+  text-align: center;
+  background-color: #E4007C;
+  height: 300px;
+  line-height: 0;
+  position: relative;
+}
+
+.name-img{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 50%;
+}
+
+.middle-container {
+  font-family: 'Montserrat';
+  text-align: center;
+}
+
+.skill-row{
+  width: 50%;
+  text-align: left;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+.bottom-container {
+  font-family: 'Montserrat';
+}
+
+
+.desktop-img{
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.book-img{
+  width: 20%;
+  float:right;
+  margin-left: 30px;
+}
